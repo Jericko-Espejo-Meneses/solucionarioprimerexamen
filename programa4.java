@@ -2,7 +2,7 @@ public class programa4 {
     public static void main(String[] args) {
         String[] palabras = {"a", "a", "b", "b", "c"};
         
-        // Arreglos para almacenar palabras únicas y sus cantidades
+      
         String[] palabrasUnicas = new String[palabras.length];
         int[] cantidades = new int[palabras.length];
         int totalUnicas = 0;
